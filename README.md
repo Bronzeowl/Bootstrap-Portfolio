@@ -1,11 +1,12 @@
 # bootstrap-portfolio
 
-This is one part of the second assignment for the Houston Coding Bootcamp Delivered by UT Austin.
+This is the second assignment completed for the Houston Coding Bootcamp Delivered by UT Austin.
 
 HTML5 / CSS3 / Bootstrap Framework
 
-One Paragraph of project description goes here
+In this assignment, we were required to create two different portfolios. The first was an update of the first assignment —it was enhanced with a mobile-responsive layout. For the second portfolio, we were required to build a layout with the Bootstrap CSS framework.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Click on the following link to preview the completed assignment.
+
