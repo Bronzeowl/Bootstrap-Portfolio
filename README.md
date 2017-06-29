@@ -9,4 +9,10 @@ In this assignment, we were required to create two different portfolios. The fir
 ## Getting Started
 
 Click on the following link to preview the completed assignment.
+  https://bronzeowl.github.io/bootstrap-portfolio/
+  
+## Built With
+* HTML5
+* CSS3
+* Twitter-Bootstrap
 
